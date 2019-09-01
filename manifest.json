@@ -8,7 +8,9 @@
   
 	},
 	"permissions": [
-		"http://api.flickr.com/"
+		"cookies",
+		"http://*.taobao.com/",
+		"https://*.taobao.com/"
 	],
 	"manifest_version": 2
 }
